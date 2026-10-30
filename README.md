@@ -18,14 +18,23 @@ I'm passionate about applying AI and data-driven approaches to complex scientifi
 
 *Project details and source code are not publicly available.*
 
+
 ### 🔬 AI-Driven Acne Precision Medicine
-**Independent ML Research & Development | In Progress**
 
-- Developed and trained a machine learning model for gene-expression classification using Python and biomedical datasets.
-- Evaluated model generalization using an independent external dataset.
-- Analyzed feature contributions to investigate biologically relevant patterns.
+**Independent AI/ML Research & Development | In Progress**
 
-*Project details and source code are currently private.*
+An independent research and development project exploring AI applications in acne-related molecular data analysis.
+
+**Technical Work:**
+- Developed and trained machine learning models using biomedical gene-expression data.
+- Performed data preprocessing, quality control, and exploratory analysis.
+- Evaluated model performance using an independent external dataset.
+- Conducted feature analysis to investigate biologically relevant patterns.
+
+**Technologies:** Python, Pandas, NumPy, Machine Learning, Bioinformatics, Gene Expression Analysis.
+
+*Source code and implementation details remain private.*
+
 
 ### 🧬 Genetic Algorithm for Cell-Type Composition Estimation
 **Computational Biology | Python | Academic Project — Grade: 100**
