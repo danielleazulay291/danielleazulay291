@@ -66,3 +66,6 @@ The Open University of Israel
 I'm interested in opportunities across AI, R&D, computational biology, digital health, and interdisciplinary technical development.
 
 📧 [Email Me](mailto:danielleazulay291@gmail.com)
+
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/danielle-azoulay-19097b27b/)
+
