@@ -46,9 +46,9 @@ An independent research and development project exploring AI applications in acn
 
 ## 💻 Technical Skills
 
-**Programming & Tools:** Python, Java, C, Linux, Git/GitHub
+**Programming & Tools:** Python, Java, C, Linux, Git/GitHub, NumPy, Pandas, Matplotlib
 
-**AI & Machine Learning:** Model Development, Training & Evaluation, Feature Analysis
+**AI & Machine Learning:** Scikit-learn, Model Development, Training & Evaluation, Feature Analysis
 
 **Computational Biology:** Genetic Algorithms, RNA-seq, Bioinformatics, BLAST, NCBI
 
